@@ -4,7 +4,12 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Motus {
+
+    //todo: Noms du Groupe pour le TP Motus:
+        //todo: TOUKAM  KEVIN  XAVIER
+        //todo: MBAYE   NDIAYE
+        //todo: STEN    TCHANDE
     public static Scanner scanner = new Scanner(System.in);
 
     //todo: fonction principale main qui exécute le code
